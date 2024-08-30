@@ -25,7 +25,7 @@ export  const Navbar1 = () => {
                   </Nav>
                 </Navbar.Collapse>
               </Container>
-              <CartWidget/>
+              <CartWidget />
             </Navbar>
             
     );
